@@ -1,12 +1,11 @@
 # AIAgent
 
-**A simple AI agent that automatically locates and patches code bugs using Google Gemini 2.0 Flash.** Built as part of a Boot.dev project.
+**A simple AI agent that automatically locates and patches code bugs using Google Gemini 2.0 Flash.**
 
 ---
 
 ##  Description
 
-Why did I build this? Because Boot.dev told me to—and because machine sloths like me just can’t resist having AI do the debugging while I sip my coffee.
 This project scans your code, spots bugs, and attempts fixes using the Gemini 2.0 Flash model. That’s it. No magic, just AI (and some caffeine).
 
 The `calculator/` directory is just a toy project used for testing the AI — you can replace it with whatever code you actually want to debug.
